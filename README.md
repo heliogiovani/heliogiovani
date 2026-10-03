@@ -26,7 +26,7 @@ Profissional com mais de duas décadas de experiência em Tecnologia da Informa�
 
 </p>
 
-- **Arquitetura de Software:** Desenvolvimento modular sob padrão MVC, segurança com controlo de acessos rigoroso (RBAC) e desenho de interfaces executivas em *Dark Mode / Glassmorphism*.
+- **Arquitetura de Software:** Desenvolvimento modular sob padrão MVC, segurança com controle de acessos rigoroso (RBAC) e desenho de interfaces executivas em *Dark Mode / Glassmorphism*.
 - **Dados & Visualização:** Engenharia de dados aplicada a painéis executivos, relatórios de auditoria e monitorização em tempo real.
 
 ---
