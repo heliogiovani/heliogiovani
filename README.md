@@ -1,6 +1,6 @@
 # Olá, sou o Helio Giovani
 
-Profissional com mais de duas décadas de experiência em Tecnologia da Informação, actuando na convergência entre **Governança Corporativa**, **Gestão Estratégica de Riscos** e **Arquitetura de Soluções**.
+Profissional com mais de duas décadas de experiência em Tecnologia da Informação, atuando na convergência entre **Governança Corporativa**, **Gestão Estratégica de Riscos** e **Arquitetura de Soluções**.
 
 ---
 
