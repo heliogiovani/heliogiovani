@@ -6,7 +6,7 @@ Profissional com mais de duas décadas de experiência em Tecnologia da Informa�
 
 ### Áreas de Especialização & Governança
 
-- **Gestão de Riscos & Controlo:** Implementação prática e modelagem alinhada aos referenciais **COSO ERM** e **ISO 31000** (Matrizes 5×5, Bow-Tie, Apetite a Risco e Planos de Mitigação).
+- **Gestão de Riscos & Controle:** Implementação prática e modelagem alinhada aos referenciais **COSO ERM** e **ISO 31000** (Matrizes 5×5, Bow-Tie, Apetite a Risco e Planos de Mitigação).
 - **Governança & Gestão de Serviços:** Práticas baseadas em **ITIL** e **COBIT**, auditoria de processos e conformidade no sector público e corporativo.
 - **Gestão de Projetos & Agilidade:** Abordagens híbridas (PMBOK / Scrum / Kanban), alinhando entregas operacionais às metas estratégicas institucionais.
 
